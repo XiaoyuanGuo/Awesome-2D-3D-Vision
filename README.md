@@ -14,3 +14,6 @@ https://github.com/amusi/awesome-object-detection
 **Link:** https://arxiv.org/pdf/2006.12356.pdf
 
 **SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud** [CVPR2021] https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_SESS_Self-Ensembling_Semi-Supervised_3D_Object_Detection_CVPR_2020_paper.pdf
+
+**Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection** [AAAI2021] https://arxiv.org/pdf/2012.15712.pdf
+**[code]** https://github.com/djiajunustc/Voxel-R-CNN
