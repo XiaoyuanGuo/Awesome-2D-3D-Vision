@@ -1,6 +1,8 @@
 # Awesome-2D-3D-Vision
 2D, 3D resources
 
+https://github.com/seaside2mm/ros-kitti-project/blob/master/kitii数据集的使用.ipynb
+
 **Dataset** http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d
 
 https://github.com/amusi/awesome-object-detection
