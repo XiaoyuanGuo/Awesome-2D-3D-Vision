@@ -7,8 +7,24 @@ https://github.com/seaside2mm/ros-kitti-project/blob/master/kitii数据集的使
 
 https://github.com/amusi/awesome-object-detection
 
+
+## Transformers
+
 **DETR: End-to-End Object Detection with Transformers** https://arxiv.org/pdf/2005.12872.pdf
 
+**Multiscale Vision Transformers** https://arxiv.org/pdf/2104.11227.pdf
+
+**DeiT:Training data-efficient image transformers & distillation through attention**  https://arxiv.org/pdf/2012.12877.pdf
+
+      Transformers in vision: object detection, semantic segmentation, 3D reconstruction, pose estimation, generative modeling, image retrieval, medical image segmengtation, point clouds, video instance segmentation, object re-identification, video retrieval, video dialogue, video object detection and multi-modal tasks,
+
+## Transformers in medical
+
+**Transunet: Transformers make strong encoders for medical image segmentation** https://arxiv.org/pdf/2102.04306.pdf
+
+**Medical transformer: Gated axialattention for medical image segmentation** https://arxiv.org/pdf/2102.10662.pdf
+
+**Spectr: Spectral transformer for hyperspectral pathology image segmentation** https://arxiv.org/pdf/2103.03604.pdf
 
 
 ## 3D 
