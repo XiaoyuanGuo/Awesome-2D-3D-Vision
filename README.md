@@ -18,6 +18,9 @@ https://github.com/amusi/awesome-object-detection
 
       Transformers in vision: object detection, semantic segmentation, 3D reconstruction, pose estimation, generative modeling, image retrieval, medical image segmengtation, point clouds, video instance segmentation, object re-identification, video retrieval, video dialogue, video object detection and multi-modal tasks,
 
+**An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale** https://arxiv.org/pdf/2010.11929.pdf
+
+
 ## Transformers in medical
 
 **Transunet: Transformers make strong encoders for medical image segmentation** https://arxiv.org/pdf/2102.04306.pdf
